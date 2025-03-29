@@ -1,3 +1,4 @@
 # Git-demo
 My repository
-Authorv- Sandeep Rana
+<br>
+Author- Sandeep Rana
